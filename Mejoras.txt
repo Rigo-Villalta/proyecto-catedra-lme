@@ -1,0 +1,7 @@
+1) Imágenes: Cambiar las imágenas igual de bien que la "Lo que viento se llevo".
+2) Footer: Mejorar, poner contenido adicional.Un poco más del cine. Más alto.
+3) Agregar imagen a la promoción pop up del index.
+4) Proximamente, cambiarlo por poster. ver Peliplus, cine de calidad, cuevana y se levante en un modal.
+5) Dejar dulceria en altura fija
+6) Ver la forma de modificar promociones para que quede justo con la cambio
+7) Efectos en imagen en galería
