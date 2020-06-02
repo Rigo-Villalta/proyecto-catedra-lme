@@ -53,3 +53,15 @@ Contenedor para Google Maps
     max-width: 70%;
     margin: auto;
   }
+
+  .dulceria {
+    min-height: 650px;
+  }
+
+  .grow { 
+    transition: all .2s ease-in-out;
+  }
+
+.grow:hover { 
+  transform: scale(1.25); 
+}
